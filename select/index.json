@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Lost Night",
+  "base_artist": "YELLASOMA",
+  "createdAt": "2026-03-08T06:23:47.099365Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lost Control",
+      "artist": "Alan Walker feat. Sorana",
+      "has_synced": true,
+      "path": "select/01_Lost_Control_Alan_Walker_feat._Sorana.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lost Control",
+      "artist": "Alan Walker;Sorana",
+      "has_synced": true,
+      "path": "select/02_Lost_Control_Alan_Walker;Sorana.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lost",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/03_Lost_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lost",
+      "artist": "Amanda Palmer & The Grand Theft Orchestra",
+      "has_synced": true,
+      "path": "select/04_Lost_Amanda_Palmer_&_The_Grand_Theft_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(Lost Her Love) On Our Last Date",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/05_(Lost_Her_Love)_On_Our_Last_Date_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Lost It",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/06_I_Lost_It_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Lost It",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/07_I_Lost_It_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Let's Get Lost",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/08_Let's_Get_Lost_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lost Highway",
+      "artist": "Hank Williams",
+      "has_synced": true,
+      "path": "select/09_Lost_Highway_Hank_Williams.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lost In the Fifties Tonight",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/10_Lost_In_the_Fifties_Tonight_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lost and Found",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/11_Lost_and_Found_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lost In This Moment",
+      "artist": "Big & Rich",
+      "has_synced": true,
+      "path": "select/12_Lost_In_This_Moment_Big_&_Rich.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lost in the Middle of Nowhere",
+      "artist": "Kane Brown feat. Becky G",
+      "has_synced": true,
+      "path": "select/13_Lost_in_the_Middle_of_Nowhere_Kane_Brown_feat._Becky_G.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lost in the Middle of Nowhere (feat. Becky G)",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/14_Lost_in_the_Middle_of_Nowhere_(feat._Becky_G)_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lost Control (Mixed)",
+      "artist": "Alan Walker",
+      "has_synced": false,
+      "path": "select/15_Lost_Control_(Mixed)_Alan_Walker.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Lost Years",
+      "artist": "Stephanie Quayle",
+      "has_synced": false,
+      "path": "select/16_The_Lost_Years_Stephanie_Quayle.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lost Night",
+      "artist": "YELLASOMA",
+      "has_synced": false,
+      "path": "select/pl_01_Lost_Night_YELLASOMA.txt"
+    }
+  ]
+}
